@@ -15,7 +15,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 
 
 ### Technologies and Tool ⚙️ 🖥
