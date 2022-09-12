@@ -3,10 +3,10 @@
 [![Linkedin: emna-bouaziz](https://img.shields.io/badge/-Emna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emna-bouaziz-4634771b7/)](https://www.linkedin.com/in/emna-bouaziz-4634771b7/)
 [![GitHub emnabz](https://img.shields.io/github/followers/Theemiss?label=follow&style=social)](https://github.com/emnabz)
 
-- 🔭 I’m Software Engineer and Web Developer Student at @Holberton School .
+- 🔭 I am a full stack web developer recently graduated from Holberton School Tunisia
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, I'm happy to help.
-- 📫 How to reach me: <1947@holbertonschool.com>
+- 📫 How to reach me: <emna.bouaziz@holbertonstudents.com>
 
 ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
