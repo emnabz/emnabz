@@ -36,8 +36,4 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?&logo=confluence)
 ![IBM Rational](https://img.shields.io/badge/-IBM%20Rational-000?&logo=ibm)
 
-### 📈 My GitHub Stats
-
-<a href="https://github.com/emnabz"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=emnabz&theme=bear&show_icons=true&count_private=true" /> <!-- wi*quL3fcV --> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnabz&layout=compact" /></a>
-
 ![](https://komarev.com/ghpvc/?username=emnabz)
