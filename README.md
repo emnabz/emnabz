@@ -5,7 +5,7 @@
 
 - 🔭 **Back-end / Full-Stack Web Developer** with professional experience in building scalable web applications.
 - 👯 Open to collaborating on **backend and full-stack projects**.
-- 💬 Ask me about **Java, Python, React, or SQL** — I’ll be happy to help.
+- 💬 Ask me about **Java, Python, React, or SQL** I’ll be happy to help.
 - 📫 Reach me at **emnabouaziz11@gmail.com**
 
 ### Languages 💻 🌐
