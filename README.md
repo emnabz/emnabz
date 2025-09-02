@@ -22,7 +22,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-000?&logo=oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -35,5 +34,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?&logo=confluence)
 ![IBM Rational](https://img.shields.io/badge/-IBM%20Rational-000?&logo=ibm)
+
 
 ![](https://komarev.com/ghpvc/?username=emnabz)
